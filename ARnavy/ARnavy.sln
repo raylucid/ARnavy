@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARnavy", "ARnavy.csproj", "{4556E68C-717A-C105-90AA-44137DE55991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARnavy.Editor", "ARnavy.Editor.csproj", "{F482A005-418D-055F-8CF0-0C93988B2A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4556E68C-717A-C105-90AA-44137DE55991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4556E68C-717A-C105-90AA-44137DE55991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4556E68C-717A-C105-90AA-44137DE55991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4556E68C-717A-C105-90AA-44137DE55991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F482A005-418D-055F-8CF0-0C93988B2A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F482A005-418D-055F-8CF0-0C93988B2A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F482A005-418D-055F-8CF0-0C93988B2A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F482A005-418D-055F-8CF0-0C93988B2A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

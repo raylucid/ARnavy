@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5d9be3d57c779034d800fb200c390fa9
+timeCreated: 1516767028
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalPlane: {fileID: 1410331924728018, guid: a6026dcd62487714eb06cbbe88eca731,
+      type: 2}
+  - normalShelf: {fileID: 1675221350327822, guid: 16db9460cda90934b950acc7b212a938,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
